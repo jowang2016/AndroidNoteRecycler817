@@ -1,0 +1,2 @@
+# AndroidNoteRecycler817
+一个通过使用recyclerview和cardview做的笔记本程序，sqlite数据库
